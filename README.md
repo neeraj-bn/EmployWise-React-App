@@ -16,7 +16,7 @@ EmployWise is a React application that integrates with the Reqres API to perform
 ### Level 2: List All Users
 - After logging in, a paginated list of users is displayed.
 - API Endpoint: `GET /api/users?page=1`
-- Users' first name, last name, and avatar are displayed in a structured layout (table or card format).
+- Users' first name, last name, and avatar are displayed in a structured layout.
 - Implemented pagination to navigate through different pages of users.
 
 ### Level 3: Edit, Delete, and Update Users
