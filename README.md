@@ -69,4 +69,4 @@ npm run dev
 
 ---
 
-⭐ Happy Coding! 🚀
+⭐ Thank you! 🚀
