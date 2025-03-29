@@ -60,7 +60,7 @@ npm run dev
 
 ## Deployment
 - **GitHub Repository**: [EmployWise-React-App](https://github.com/neeraj-bn/EmployWise-React-App.git)
-- **Live Demo**: [EmployWise React App](https://employwise-react.netlify.app/login)
+- **Live Demo**: [EmployWise React App](https://employwise-react.netlify.app/)
 
 ## Additional Enhancements
 - Implemented **client-side search and filtering** on the user list.
